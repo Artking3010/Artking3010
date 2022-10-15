@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Artking3010/Artking3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Jeferson
 😀 Eu sou uma pessoa que gosta de ser feliz, sou muito proativo, gosto de ter novas idéias e sempre evoluir.
 
