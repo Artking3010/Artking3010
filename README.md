@@ -1,5 +1,11 @@
-# Olá seja bem vindo! Meu nome é Jeferson.
-😀 Eu sou uma pessoa que gosta de ser feliz, sou muito proativo, gosto de ter novas idéias e sempre evoluir.
+<div>
+<h3> # Olá seja bem vindo!<br>
+Meu nome é Jeferson.<br> </h3>
+</div>
+😀 Eu sou uma pessoa que gosta de ser feliz, sou muito proativo, gosto de ter novas idéias e sempre evoluir.<br>
+🎮 Gosto muito de jogar games de todos os estilos<br>
+📚 Adoro estudar, principalmente na área de TI, adoro aprender e adquirir mais conhecimento e aprender novas linguagens de programação.<br>
+📽 Assistir filmes e séries são meus hobbys preferidos.<br><br><br>
 
 <div>
   <a href="https://github.com/Artking3010">
