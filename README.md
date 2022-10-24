@@ -43,12 +43,4 @@ Meu nome é Jeferson.<br> </h3>
    
  </div>
   
-    <h3> Tecnologias que pretendo aprender:</h3> 
-  
-  <div>
-    
-    <img align="center" alt="django" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    
-    
-  </div>
-    
+        
